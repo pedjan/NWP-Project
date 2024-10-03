@@ -1,0 +1,11 @@
+.register {
+    align-content: center;
+    border: 2px solid black;
+    width: 700px;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8cbdb9;
+}

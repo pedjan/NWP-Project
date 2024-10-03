@@ -1,0 +1,15 @@
+.film-container {
+    display: inline-block;
+    margin: 5px;
+    background-color: #E09E50;
+}
+
+.prikaz {
+    display: inline-block;
+    margin: 5px;
+    background-color: #E09E50;
+}
+
+.detalji{
+    text-align: center;
+}

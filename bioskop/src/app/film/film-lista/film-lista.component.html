@@ -1,0 +1,7 @@
+<div class="film-container row">
+    <h2 style="text-align: center;">Prikaz filmova</h2><br>
+    <app-jedan-film 
+        *ngFor="let film of filmovi$ | async" 
+        [film]="film" class="col-xs-12 col-sm-6 col-md-4 col-xl-2">
+    </app-jedan-film>
+</div>
